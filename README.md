@@ -185,7 +185,3 @@ CREATE TABLE esquema.xm_data_hourly_per_agent (
 );
 
 
-### Diagrama del Esquema
-
-![Esquema de la base de datos](C:\Users\Alejandro\Desktop\Backend\prueba_tecnica\venv\imagen\db.jpg)
-
