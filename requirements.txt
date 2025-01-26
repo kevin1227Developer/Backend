@@ -1,0 +1,9 @@
+psycopg2-binary
+python-decouple
+fastapi
+uvicorn
+pandas
+psycopg2
+sqlalchemy
+openpyxl
+python-dotenv

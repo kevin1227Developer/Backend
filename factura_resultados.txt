@@ -1,0 +1,11 @@
+Energía Activa (EA): 110.5
+Comercialización de Excedentes (EC): 2250.0
+Excedentes de Energía tipo 1 (EE1): 50.0
+Excedentes de Energía tipo 2 (EE2): 0
+Total de horas con exceso (EE2): 0
+
+Detalles de la factura:
+EA: 110.5
+EC: 2250.0
+EE1: 50.0
+EE2: 0
