@@ -186,4 +186,6 @@ CREATE TABLE esquema.xm_data_hourly_per_agent (
     record_timestamp TIMESTAMP NOT NULL   -- Marca de tiempo del registro
 );
 
+![Ejemplo de base de datos](imagen/db.jpg)
+
 
