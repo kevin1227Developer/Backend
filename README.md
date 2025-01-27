@@ -95,8 +95,7 @@ Esto generará un archivo `factura_resultados.txt` con los detalles de la factur
 
 Al ejecutar el comando para calcular la factura, se generará un archivo `factura_resultados.txt` que contendrá información como:
 
-![Ejemplo de factura](./venv/imagen/prueba.jpg)
-
+![Ejemplo de factura](imagen/prueba.jpg)
 
 
 
