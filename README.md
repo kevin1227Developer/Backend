@@ -26,7 +26,7 @@ prueba_tecnica/
 
 ## Descripción de Archivos
 
-#### 📁 [`prueba_tecnica/venv/main.py`](https://github.com/tu-usuario/tu-repositorio/blob/main/prueba_tecnica/venv/main.py)
+#### 📁[main.py](./main.py)
 Este archivo es el punto de entrada principal de tu aplicación. Aquí es donde se inicia la ejecución del programa. Generalmente, se encarga de coordinar las diferentes partes del sistema, como la conexión a la base de datos y la ejecución de las funciones de facturación.
 
 ### 📦 `prueba_tecnica/venv/requirements.txt`
