@@ -129,6 +129,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 A continuación se presenta el esquema de la base de datos utilizado en este proyecto:
 
+![Ejemplo de base de datos](imagen/db.jpg)
+
+
 ```sql
 -- Crear el esquema de base de datos
 CREATE SCHEMA esquema;
@@ -186,6 +189,5 @@ CREATE TABLE esquema.xm_data_hourly_per_agent (
     record_timestamp TIMESTAMP NOT NULL   -- Marca de tiempo del registro
 );
 
-![Ejemplo de base de datos](imagen/db.jpg)
 
 
