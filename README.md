@@ -29,16 +29,16 @@ prueba_tecnica/
 #### 📁[main.py](./main.py)
 Este archivo es el punto de entrada principal de tu aplicación. Aquí es donde se inicia la ejecución del programa. Generalmente, se encarga de coordinar las diferentes partes del sistema, como la conexión a la base de datos y la ejecución de las funciones de facturación.
 
-### 📦 `prueba_tecnica/venv/requirements.txt`
+### 📦  [requirements.txt](./requirements.txt)
 Este archivo contiene una lista de todas las dependencias necesarias para ejecutar el proyecto. Al instalar las dependencias desde este archivo, aseguras que tu entorno tenga todas las bibliotecas requeridas, como `psycopg2` para la conexión a PostgreSQL y `pandas` para el manejo de datos.
 
-### 📄 `prueba_tecnica/venv/factura_resultados.txt`
+### 📄 [factura_resultados.txt](./factura_resultados.txt)
 Este archivo es donde se guardan los resultados de la facturación. Después de ejecutar el cálculo de la factura, los detalles se escriben en este archivo, lo que permite a los usuarios revisar la información de la factura generada.
 
-### ⚙️ `prueba_tecnica/venv/factura_energia.py`
+### ⚙️ [factura_energia.py](./factura_energia.py)
 Este archivo contiene la lógica para calcular la factura de energía. Se encarga de extraer datos de la base de datos, procesar la información y calcular los costos basados en el consumo y la inyección de energía. También maneja la escritura de los resultados en `factura_resultados.txt`.
 
-### 🔗 `prueba_tecnica/venv/connect_db.py`
+### 🔗 [connect_db.py](./connect_db.py)
 Este archivo se encarga de establecer la conexión con la base de datos PostgreSQL. Utiliza las variables de entorno definidas en el archivo `.env` para obtener la configuración de la base de datos. Es fundamental para que el resto de la aplicación pueda acceder a los datos necesarios para el cálculo de la factura.
 
 ## Requisitos
